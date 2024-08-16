@@ -18,7 +18,7 @@ Este repositório contém as respostas das atividades distribuídas entre os par
 - **Conjunto 3**: Respostas das Atividades 36, 37, 38, 39, 40
 - **Conjunto 4**: Resposta da Atividade 60
 
-### Eduarda Remalho
+### Eduarda Ramalho
 - **Conjunto 1**: Resposta da Atividade 3
 - **Conjunto 2**: Respostas das Atividades 15, 16, 17, 18
 - **Conjunto 3**: Respostas das Atividades 41, 42, 43, 44
