@@ -12,22 +12,25 @@ public class Atividade57 {
         return LocalDate.parse(dateString, formatter);
     }
 
-    private static int readNumberOfDays(Scanner scanner) {
-        System.out.print("Enter the number of days to add:  ");
-        return scanner.nextInt();
-    }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
         LocalDate startDate = readDate(scanner, "Enter the start date (dd/MM/yyyy): ");
+        LocalDate endDate = readDate(scanner, "Enter the end date (dd/MM/yyyy): ");
 
-        int numberOfDays = readNumberOfDays(scanner);
+        if (startDate.isAfter(endDate)) {
+            System.out.println("The start date must be before or equal to the end date.");
+            return;
+        }
 
-        LocalDate endDate = startDate.plusDays(numberOfDays);
+        System.out.println("Dates from " + startDate.format(formatter) + " to " + endDate.format(formatter) + ":");
+        LocalDate currentDate = startDate;
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
-        System.out.println(startDate.format(formatter) + " + " + numberOfDays + " = " + endDate.format(formatter));
+        while (!currentDate.isAfter(endDate)) {
+            System.out.println(currentDate.format(formatter));
+            currentDate = currentDate.plusDays(1);
+        }
 
         scanner.close();
     }
