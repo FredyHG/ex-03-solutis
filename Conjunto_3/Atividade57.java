@@ -13,7 +13,7 @@ public class Atividade57 {
     }
 
     private static int readNumberOfDays(Scanner scanner) {
-        System.out.print("Enter the number of days to add: ");
+        System.out.print("Enter the number of days to add:  ");
         return scanner.nextInt();
     }
 
