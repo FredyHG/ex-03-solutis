@@ -22,3 +22,5 @@ K
 Conjunto_3/Atividade51.java,1\c\1c424c7de3287ac6e7592329e8764fbef105c0f7
 K
 Conjunto_3/Atividade52.java,c\3\c3be8f64b63fe1a1656f98c27743554b74ac2f5f
+K
+Conjunto_3/Atividade53.java,3\f\3f58260d2a88142abcb7fe01919f49e2ea35bb8f
