@@ -12,3 +12,5 @@ K
 Conjunto_2/Atividade23.java,4\2\42ab74da69dca03f3df6ebc702bcb6a256bfa1f1
 K
 Conjunto_2/Atividade24.java,a\b\abce232d15a735e4a5620327507e050429cdb6de
+K
+Conjunto_2/Atividade25.java,9\0\90fe48b04689ae29eac34c05c4231feea84411c9
