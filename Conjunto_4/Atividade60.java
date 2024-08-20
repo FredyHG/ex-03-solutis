@@ -3,6 +3,8 @@ package Conjunto_4;
 import java.util.Scanner;
 public class Atividade60 {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         System.out.print("Digite o valor inicial da dívida: ");
         double divida = scanner.nextDouble();
 
