@@ -24,7 +24,7 @@ Este repositório contém as respostas das atividades distribuídas entre os par
 - **Conjunto 3**: Respostas das Atividades 41, 42, 43, 44
 - **Conjunto 4**: Resposta da Atividade 61
 
-### Pietra Almeida
+### Pessoa 4
 - **Conjunto 1**: Resposta da Atividade 4
 - **Conjunto 2**: Respostas das Atividades 19, 20, 21, 22
 - **Conjunto 3**: Respostas das Atividades 45, 46, 47, 48
