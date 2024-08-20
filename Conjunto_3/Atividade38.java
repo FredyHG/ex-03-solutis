@@ -26,5 +26,4 @@ public class Atividade38 {
             System.out.println(num + " não é um número primo.");
         }
     }
-    }
 }
