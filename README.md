@@ -20,7 +20,7 @@ Este repositório contém as respostas das atividades distribuídas entre os par
 
 ### Eduarda Ramalho
 - **Conjunto 1**: Resposta da Atividade 3
-- **Conjunto 2**: Respostas das Atividades 15, 16, 17, 18
+- **Conjunto 2**: Respostas das Atividades 15, 16, 17, 18, 29, 30
 - **Conjunto 3**: Respostas das Atividades 41, 42, 43, 44
 - **Conjunto 4**: Resposta da Atividade 61
 
